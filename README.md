@@ -1,8 +1,7 @@
-# Shellscript
 
 <h1 align="center">
-    <img alt="Shellscript" src=".github/console.svg" width="250px" />
-</h1>
+    <img alt="Shellscript" src=".github/console.svg" width="150px" /> 
+</h1> 
 
 ## :memo: Licença
 
